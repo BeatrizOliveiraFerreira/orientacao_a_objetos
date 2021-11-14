@@ -1,0 +1,15 @@
+C:\Users\beafe\source\repos\Orientação a objetos\Acesso\bin\Debug\net5.0\Acesso.exe
+C:\Users\beafe\source\repos\Orientação a objetos\Acesso\bin\Debug\net5.0\Acesso.deps.json
+C:\Users\beafe\source\repos\Orientação a objetos\Acesso\bin\Debug\net5.0\Acesso.runtimeconfig.json
+C:\Users\beafe\source\repos\Orientação a objetos\Acesso\bin\Debug\net5.0\Acesso.runtimeconfig.dev.json
+C:\Users\beafe\source\repos\Orientação a objetos\Acesso\bin\Debug\net5.0\Acesso.dll
+C:\Users\beafe\source\repos\Orientação a objetos\Acesso\bin\Debug\net5.0\ref\Acesso.dll
+C:\Users\beafe\source\repos\Orientação a objetos\Acesso\bin\Debug\net5.0\Acesso.pdb
+C:\Users\beafe\source\repos\Orientação a objetos\Acesso\obj\Debug\net5.0\Acesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beafe\source\repos\Orientação a objetos\Acesso\obj\Debug\net5.0\Acesso.AssemblyInfoInputs.cache
+C:\Users\beafe\source\repos\Orientação a objetos\Acesso\obj\Debug\net5.0\Acesso.AssemblyInfo.cs
+C:\Users\beafe\source\repos\Orientação a objetos\Acesso\obj\Debug\net5.0\Acesso.csproj.CoreCompileInputs.cache
+C:\Users\beafe\source\repos\Orientação a objetos\Acesso\obj\Debug\net5.0\Acesso.dll
+C:\Users\beafe\source\repos\Orientação a objetos\Acesso\obj\Debug\net5.0\ref\Acesso.dll
+C:\Users\beafe\source\repos\Orientação a objetos\Acesso\obj\Debug\net5.0\Acesso.pdb
+C:\Users\beafe\source\repos\Orientação a objetos\Acesso\obj\Debug\net5.0\Acesso.genruntimeconfig.cache

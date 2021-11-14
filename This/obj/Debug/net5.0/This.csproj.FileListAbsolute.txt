@@ -1,0 +1,15 @@
+C:\Users\beafe\source\repos\Orientação a objetos\This\bin\Debug\net5.0\This.exe
+C:\Users\beafe\source\repos\Orientação a objetos\This\bin\Debug\net5.0\This.deps.json
+C:\Users\beafe\source\repos\Orientação a objetos\This\bin\Debug\net5.0\This.runtimeconfig.json
+C:\Users\beafe\source\repos\Orientação a objetos\This\bin\Debug\net5.0\This.runtimeconfig.dev.json
+C:\Users\beafe\source\repos\Orientação a objetos\This\bin\Debug\net5.0\This.dll
+C:\Users\beafe\source\repos\Orientação a objetos\This\bin\Debug\net5.0\ref\This.dll
+C:\Users\beafe\source\repos\Orientação a objetos\This\bin\Debug\net5.0\This.pdb
+C:\Users\beafe\source\repos\Orientação a objetos\This\obj\Debug\net5.0\This.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beafe\source\repos\Orientação a objetos\This\obj\Debug\net5.0\This.AssemblyInfoInputs.cache
+C:\Users\beafe\source\repos\Orientação a objetos\This\obj\Debug\net5.0\This.AssemblyInfo.cs
+C:\Users\beafe\source\repos\Orientação a objetos\This\obj\Debug\net5.0\This.csproj.CoreCompileInputs.cache
+C:\Users\beafe\source\repos\Orientação a objetos\This\obj\Debug\net5.0\This.dll
+C:\Users\beafe\source\repos\Orientação a objetos\This\obj\Debug\net5.0\ref\This.dll
+C:\Users\beafe\source\repos\Orientação a objetos\This\obj\Debug\net5.0\This.pdb
+C:\Users\beafe\source\repos\Orientação a objetos\This\obj\Debug\net5.0\This.genruntimeconfig.cache

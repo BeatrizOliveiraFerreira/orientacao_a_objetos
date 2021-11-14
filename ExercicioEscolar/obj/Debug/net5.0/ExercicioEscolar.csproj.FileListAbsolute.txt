@@ -1,0 +1,16 @@
+C:\Users\beafe\source\repos\Orientação a objetos\ExercicioEscolar\bin\Debug\net5.0\ExercicioEscolar.exe
+C:\Users\beafe\source\repos\Orientação a objetos\ExercicioEscolar\bin\Debug\net5.0\ExercicioEscolar.deps.json
+C:\Users\beafe\source\repos\Orientação a objetos\ExercicioEscolar\bin\Debug\net5.0\ExercicioEscolar.runtimeconfig.json
+C:\Users\beafe\source\repos\Orientação a objetos\ExercicioEscolar\bin\Debug\net5.0\ExercicioEscolar.runtimeconfig.dev.json
+C:\Users\beafe\source\repos\Orientação a objetos\ExercicioEscolar\bin\Debug\net5.0\ExercicioEscolar.dll
+C:\Users\beafe\source\repos\Orientação a objetos\ExercicioEscolar\bin\Debug\net5.0\ref\ExercicioEscolar.dll
+C:\Users\beafe\source\repos\Orientação a objetos\ExercicioEscolar\bin\Debug\net5.0\ExercicioEscolar.pdb
+C:\Users\beafe\source\repos\Orientação a objetos\ExercicioEscolar\obj\Debug\net5.0\ExercicioEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beafe\source\repos\Orientação a objetos\ExercicioEscolar\obj\Debug\net5.0\ExercicioEscolar.AssemblyInfoInputs.cache
+C:\Users\beafe\source\repos\Orientação a objetos\ExercicioEscolar\obj\Debug\net5.0\ExercicioEscolar.AssemblyInfo.cs
+C:\Users\beafe\source\repos\Orientação a objetos\ExercicioEscolar\obj\Debug\net5.0\ExercicioEscolar.csproj.CoreCompileInputs.cache
+C:\Users\beafe\source\repos\Orientação a objetos\ExercicioEscolar\obj\Debug\net5.0\ExercicioEscolar.dll
+C:\Users\beafe\source\repos\Orientação a objetos\ExercicioEscolar\obj\Debug\net5.0\ref\ExercicioEscolar.dll
+C:\Users\beafe\source\repos\Orientação a objetos\ExercicioEscolar\obj\Debug\net5.0\ExercicioEscolar.pdb
+C:\Users\beafe\source\repos\Orientação a objetos\ExercicioEscolar\obj\Debug\net5.0\ExercicioEscolar.genruntimeconfig.cache
+C:\Users\beafe\source\repos\Orientação a objetos\ExercicioEscolar\obj\Debug\net5.0\ExercicioEscolar.csproj.AssemblyReference.cache
