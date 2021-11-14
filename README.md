@@ -1,4 +1,4 @@
-# orientacao_a_objetos
+# Orientação a Objetos
 C# Orientado a objetos
 <img src="https://www.devmedia.com.br/arquivos/Artigos/29539/CSharp-Oo.jpg">
 Utilizei o Visual Studio Community 2019:
